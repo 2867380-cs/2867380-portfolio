@@ -1,0 +1,1 @@
+I know how to create a repository on Github. Taking that repository and cloning to my local machine was easier than I thought. Creating files is easy too, was a bit confused about the commit message thing though.
